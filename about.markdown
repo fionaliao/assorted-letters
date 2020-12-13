@@ -23,7 +23,7 @@ Anyway, this is a space for my non-tech writing, i.e. off-job thoughts that are 
  
 **My writing has Real Emotional Depth.** A teacher once had a Serious Conversation with my mum about a poem I'd written for homework. It was about changing schools a lot and the poem was obviously so emotive they were concerned I was struggling with the instability. I was actually just really good at doing homework and writing feelings and honestly didn't have issues with the frequent moves and leaving people and having to build new relationships and settling in new environments. Probably. 
 
-**I can write like a twelve year old. Or possibly a twenty-seven year old.** When I was ten, a different teacher told me I had the writing skills of a twelve year old. Being two years more mature is  pretty much the higest compliment you could give a ten year old, right? What I do wonder is if my writing abilities are permanently stuck at the twelve year old level or whether it's a constant two year age gap.
+**I can write like a twelve year old. Or possibly a twenty-seven year old.** When I was ten, a different teacher told me I had the writing skills of a twelve year old. Being two years more mature is  pretty much the highest compliment you could give a ten year old, right? What I do wonder is if my writing abilities are permanently stuck at the twelve year old level or whether it's a constant two year age gap.
 
 [^4]: To any close acquaintances who are worried I will be inviting them to amateur comedy nights, please don't stress about having to make up excuses to not go. I have no intention of becoming a stand-up comedian, nor do I have the skills to do so.
 
