@@ -21,4 +21,4 @@ Quack.
 
 ----
 
-*I'm currently doing the [Introduction to Philosophy](https://www.coursera.org/learn/philosophy) course on Coursera, which means I am now qualified to confidently misuse philosophical terms in conversations. On a more serious note, I think it's a nice gentle entry into the subject and I'm enjoying it.*
+*I'm currently doing the [Introduction to Philosophy](https://www.coursera.org/learn/philosophy) course on Coursera, which means I am now qualified to confidently misuse philosophical terms in conversations.*
