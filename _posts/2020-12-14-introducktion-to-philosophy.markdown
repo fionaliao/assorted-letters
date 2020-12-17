@@ -2,7 +2,7 @@
 layout: post
 title:  "Introducktion to Philosophy"
 date:   2020-12-14 20:00:00 +0000
-categories: 
+tags:   fiction 
 ---
 
 ![Duck looking into a river](/assorted-letters/assets/2020-12-14-introducktion-to-philosophy.jpg)

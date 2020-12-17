@@ -2,7 +2,7 @@
 layout: post
 title:  "Cool Storky, Bro"
 date:   2020-12-15 00:30:00 +0000
-categories: 
+tags:   fiction
 ---
 
 ![Bird dipping its beak into water](/assorted-letters/assets/2020-12-15-cool-storky-bro.jpg)
