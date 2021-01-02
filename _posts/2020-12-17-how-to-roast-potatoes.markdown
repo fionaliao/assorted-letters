@@ -2,10 +2,10 @@
 layout: post
 title:  "How to Roast Potatoes"
 date:   2020-12-17 21:00:00 +0000
-tags:   
+tags:   recipe
 ---
 
-With Christmas coming up, I thought I should write something festive. So today I'll be showing you how to make an integral part of Christmas dinner: roast potatoes. 
+With Christmas coming up, I thought I should write something festive. So today I'll be showing you how to make roast potatoes, an integral part of Christmas dinner. 
 
 There are many ways to roast potatoes. I've given a few options below:
 
