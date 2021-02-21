@@ -5,16 +5,6 @@ date:   2021-02-21 00:25:00 +0000
 tags:   life-story running mildly-gory
 ---
 
-If I’ve talked to you about running before, you’ve probably heard this story. It's about something I learnt during a run.
-
-I bring it up a lot.
-
-Not because it’s nice. The opposite, in fact.
-
-But since I had to suffer through it, everyone else should too.
-
-<p style="text-align:center;">🏃🏃🏃</p>
-
 My runs are rarely exciting.
 
 I enjoy running: it's healthy and improvements are measurable. I also feel great *after* the run. However, the actual act of running - particularly if I'm by myself - is monotonous. My feet plod along the pavement. There are roads, cars, and other people to dodge (while internally complaining about their lack of spatial awareness because obviously I deserve the right of way in all situations). And that's about it.
