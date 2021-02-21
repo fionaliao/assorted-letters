@@ -5,7 +5,7 @@ date:   2021-02-21 00:25:00 +0000
 tags:   life-story running mildly-gory
 ---
 
-If I’ve talked to you about running before, you’ve probably heard this story. It's about something I learnt about during a run.
+If I’ve talked to you about running before, you’ve probably heard this story. It's about something I learnt during a run.
 
 I bring it up a lot.
 
